@@ -4,4 +4,5 @@ mx: mail.protonmail.ch
 mx: mailsec.protonmail.ch
 mx: mx1-us1.ppe-hosted.com
 mx: mx2-us1.ppe-hosted.com
+mx: sender.zoho-books.com.au
 max_age: 604800
